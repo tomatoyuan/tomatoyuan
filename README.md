@@ -1,10 +1,6 @@
-## Hi here 👋
+<h2 align="center">番茄元🍅tomatoyuan</h2>
 
-<h3 font_size="30px" align="center">番茄元🍅tomatoyuan</h3>
-
-<div align="center">
-    <font size="10"><b>番茄元🍅tomatoyuan</b></font>
-</div>
+### Hi here 👋
 
 <!--
 **tomatoyuan/tomatoyuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

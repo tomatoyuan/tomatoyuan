@@ -1,6 +1,6 @@
 ## Hi here 👋
 
-<h3  style="font-size: 30px; text-align: center;">番茄元🍅tomatoyuan</h3>
+<p style="font-size: 30px; text-align: center; font-weight: bold;">番茄元🍅tomatoyuan</p>
 
 <!-- snake -->
 

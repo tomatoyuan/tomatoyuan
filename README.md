@@ -1,14 +1,11 @@
 ## Hi here 👋
 
-<p style="font-size: 30px; text-align: center; font-weight: bold;">番茄元🍅tomatoyuan</p>
+<h3 font_size="30px" align="center">番茄元🍅tomatoyuan</h3>
 
-<!-- snake -->
+<div align="center">
+    <font size="5"><b>番茄元🍅tomatoyuan</b></font>
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tomatoyuan/tomatoyuan/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/tomatoyuan/tomatoyuan/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 <!--
 **tomatoyuan/tomatoyuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,5 +19,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-  -->
+-->
 
+<!-- snake -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tomatoyuan/tomatoyuan/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/tomatoyuan/tomatoyuan/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
